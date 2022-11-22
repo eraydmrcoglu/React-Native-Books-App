@@ -9,9 +9,9 @@
 
 
 <div style="display: inline_block" align="center"><br>
-  <img width="300px" height="600px" style="object-fit: contain" src="https://user-images.githubusercontent.com/75967993/203349170-4dd6b632-e982-4651-8779-09a9b914f8a8.png" alt="homescreen"/>
-  <img width="300px" height="600px"" style="object-fit: contain" src="https://user-images.githubusercontent.com/75967993/203349176-5b0e3f94-e57a-4445-a775-095afb035c48.png" alt="searchscreen" />
-  <img width="300px" height="600px"" style="object-fit: contain" src="https://user-images.githubusercontent.com/75967993/203349175-d7482ae1-2ba6-427e-a8be-28af083536c0.png" alt="mybookscreen" />
+  <img width="200px" height="400px" style="object-fit: contain" src="https://user-images.githubusercontent.com/75967993/203349170-4dd6b632-e982-4651-8779-09a9b914f8a8.png" alt="homescreen"/>
+  <img width="200px" height="400px"" style="object-fit: contain" src="https://user-images.githubusercontent.com/75967993/203349176-5b0e3f94-e57a-4445-a775-095afb035c48.png" alt="searchscreen" />
+  <img width="200px" height="400px"" style="object-fit: contain" src="https://user-images.githubusercontent.com/75967993/203349175-d7482ae1-2ba6-427e-a8be-28af083536c0.png" alt="mybookscreen" />
 </div>
 
 <div align="center">
