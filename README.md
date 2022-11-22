@@ -7,10 +7,6 @@
    React Native Books App with Google Book API and Open Library</a>
 </h3>
 
-<p align="center">
-  <a href="#features">Features</a> •
-  <a href="#technologies">Technologies</a> 
-</p>
 
 <div style="display: inline_block" align="center"><br>
   <img width="300px" height="600px" style="object-fit: contain" src="https://user-images.githubusercontent.com/75967993/203349170-4dd6b632-e982-4651-8779-09a9b914f8a8.png" alt="homescreen"/>
